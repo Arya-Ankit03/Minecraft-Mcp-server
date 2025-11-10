@@ -8,6 +8,7 @@ dependencies = [
     "fastapi>=0.121.0",
     "fastmcp>=2.13.0.2",
     "mcp[cli]>=1.20.0",
+    "nbt>=1.5.1",
     "pydantic>=2.5.3",
     "uvicorn[standard]>=0.22.0",
 ]
