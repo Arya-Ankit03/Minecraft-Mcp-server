@@ -61,7 +61,7 @@ def allow_doc_name(name: str) -> bool:
 def pick_recipes_slice(recipes: Any, query: str, ingredient_or_item: Optional[str] = None) -> Any:
     """
     Very lightweight selective reducer for recipes.
-    - If you maintain /indices/item_to_recipes.json, use it.
+    - If you maintain /indices/item_to_recipes.json, uwse it.
     - Otherwise do a tiny filter by item id mention in the query.
     """
     # Try index
