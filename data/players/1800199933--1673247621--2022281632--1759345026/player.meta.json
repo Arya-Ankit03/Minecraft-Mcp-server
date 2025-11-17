@@ -1,0 +1,20 @@
+{
+  "uuid": "1800199933--1673247621--2022281632--1759345026",
+  "name": null,
+  "game_mode": "survival",
+  "first_join": true,
+  "dimension": "minecraft:overworld",
+  "spawn_point": [
+    1801,
+    82,
+    137
+  ],
+  "last_death": {
+    "pos": [
+      1750,
+      -11,
+      -47
+    ],
+    "dimension": "minecraft:overworld"
+  }
+}

@@ -7,6 +7,7 @@ from typing import Dict, Any, List, Optional, Literal
 from fastapi import FastAPI, HTTPException, Depends, Header, Body, Query
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
+from convert_player import convert_player_json
 
 from config import DATA_ROOT, RECIPES_PATH, INDICES_DIR, API_TOKEN
 
@@ -247,6 +248,15 @@ def chat_ask(req: AskRequest):
     # If you want to call a model here, do it and set 'answer'.
     # Keeping it stubbed because model choice/keys vary.
     return AskResponse(used_context=used, composed_prompt=prompt, answer=None)
+
+@app.post("/chat/convert", dependencies=[Depends(check_auth)])
+def convert(req: ConvertRequest):
+    try:
+        player_file = DATA_ROOT / "player.json"
+        result = convert_player_json(player_file)
+
+    except Exception as e:
+        raise HTTPException(500, detail=str(e))
 
 if __name__ == "__main__":
     # When executed directly, start the uvicorn server so `python server.py` works.
