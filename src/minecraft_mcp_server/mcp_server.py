@@ -42,24 +42,24 @@ def recipes():
 
 
 # ===== MCP Actions / Tools =====
+#uneccessary tool
+# @server.tool
+# def query_chat(player_uuid: str, query: str) -> str:
+#     """Tool: Chat-style query based on inventory + recipes
 
-@server.tool
-def query_chat(player_uuid: str, query: str) -> str:
-    """Tool: Chat-style query based on inventory + recipes
+#     This mirrors the old `@action` example but registers as a FastMCP tool.
+#     """
+#     player_data = load_json(DATA_ROOT / "players" / player_uuid / "inventory.json")
+#     recipe_data = load_json(RECIPES_FILE)
 
-    This mirrors the old `@action` example but registers as a FastMCP tool.
-    """
-    player_data = load_json(DATA_ROOT / "players" / player_uuid / "inventory.json")
-    recipe_data = load_json(RECIPES_FILE)
+#     prompt = (
+#         f"Player Inventory:\n{json.dumps(player_data, indent=2)}\n\n"
+#         f"Available Recipes:\n{json.dumps(recipe_data, indent=2)}\n\n"
+#         f"Question: {query}\nAnswer:"
+#     )
 
-    prompt = (
-        f"Player Inventory:\n{json.dumps(player_data, indent=2)}\n\n"
-        f"Available Recipes:\n{json.dumps(recipe_data, indent=2)}\n\n"
-        f"Question: {query}\nAnswer:"
-    )
-
-    # Stub: You can integrate an LLM here later
-    return f"(AI Response Placeholder)\n\n{prompt}"
+#     # Stub: You can integrate an LLM here later
+#     return f"(AI Response Placeholder)\n\n{prompt}"
 
 
 # ===== Run MCP Server =====

@@ -9,3 +9,10 @@
 
 **Task 4**  
 : Add a configurable cooldown per player for `/askai` usage to prevent spam **Implementation Status:** :x:  
+
+
+
+
+**Mcp Client**
+
+Change Server.py to a mcp client which facilitates agentic ai between java plugin and mcp server

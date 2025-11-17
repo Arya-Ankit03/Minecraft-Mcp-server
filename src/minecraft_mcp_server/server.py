@@ -250,7 +250,7 @@ def chat_ask(req: AskRequest):
     return AskResponse(used_context=used, composed_prompt=prompt, answer=None)
 
 @app.post("/chat/convert", dependencies=[Depends(check_auth)])
-def convert(req: ConvertRequest):
+def convert(req):
     try:
         player_file = DATA_ROOT / "player.json"
         result = convert_player_json(player_file)
