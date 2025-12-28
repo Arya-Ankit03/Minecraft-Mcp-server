@@ -1,0 +1,2820 @@
+{
+  "Brain": {
+    "memories": {}
+  },
+  "HurtByTimestamp": 0,
+  "SleepTimer": 0,
+  "SpawnForced": 0,
+  "Invulnerable": 0,
+  "AbsorptionAmount": 0.0,
+  "abilities": {
+    "invulnerable": 0,
+    "mayfly": 0,
+    "instabuild": 0,
+    "walkSpeed": 0.10000000149011612,
+    "mayBuild": 1,
+    "flying": 0,
+    "flySpeed": 0.05000000074505806
+  },
+  "FallDistance": 0.0,
+  "recipeBook": {},
+  "XpTotal": 821,
+  "UUID": [
+    1800199933,
+    -1673247621,
+    -2022281632,
+    -1759345026
+  ],
+  "NeoForgeData": {
+    "apoth_reforge_seed": 0,
+    "sophisticatedBackpackSettings": {},
+    "PlayerPersisted": {
+      "ap_played_before": 1,
+      "BalmData": {
+        "LastCraftedRecipe": "minecraft:stone_pickaxe",
+        "WaystonesData": {
+          "Waystones": [],
+          "SortingIndex": []
+        },
+        "TrashSlot": {}
+      }
+    }
+  },
+  "Tags": [
+    "first_join"
+  ],
+  "eternal_starlight:spell_cooldowns": [],
+  "SpawnY": 82,
+  "SpawnZ": 137,
+  "SpawnX": 1801,
+  "ignore_fall_damage_from_current_explosion": 0,
+  "Air": 300,
+  "SpawnAngle": -148.031982421875,
+  "warden_spawn_tracker": {
+    "warning_level": 0,
+    "ticks_since_last_warning": 10226,
+    "cooldown_ticks": 0
+  },
+  "Score": 821,
+  "Pos": [
+    1794.9049200251663,
+    82.0,
+    116.86275719150822
+  ],
+  "XpP": 0.9090908169746399,
+  "EnderItems": [],
+  "DataVersion": 3955,
+  "spawn_extra_particles_on_fall": 0,
+  "HurtTime": 0,
+  "SelectedItemSlot": 5,
+  "Inventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:damage": 133,
+        "apotheosis:rarity": "apotheosis:uncommon",
+        "apotheosis:sockets": 1,
+        "apotheosis:affix_name": {
+          "with": [
+            {
+              "translate": "affix.apotheosis:breaker/attribute/experienced"
+            },
+            {
+              "": ""
+            },
+            {
+              "translate": "affix.apotheosis:breaker/attribute/lengthy.suffix"
+            }
+          ],
+          "color": "#33FF33",
+          "strikethrough": 0,
+          "italic": 0,
+          "translate": "misc.apotheosis.affix_name.three"
+        },
+        "apotheosis:affixes": {
+          "apotheosis:breaker/attribute/lengthy": 0.6146636605262756,
+          "apotheosis:breaker/attribute/experienced": 0.4982485771179199
+        }
+      },
+      "id": "minecraft:diamond_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:damage": 1
+      },
+      "id": "minecraft:diamond_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "id": "minecraft:golden_pickaxe"
+    },
+    {
+      "count": 64,
+      "Slot": 3,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 40,
+      "Slot": 4,
+      "id": "minecraft:diorite"
+    },
+    {
+      "count": 3,
+      "Slot": 6,
+      "id": "minecraft:cooked_mutton"
+    },
+    {
+      "count": 1,
+      "Slot": 7,
+      "components": {
+        "minecraft:damage": 2
+      },
+      "id": "minecraft:iron_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 8,
+      "id": "ftbquests:book"
+    },
+    {
+      "count": 16,
+      "Slot": 9,
+      "id": "minecraft:raw_gold"
+    },
+    {
+      "count": 53,
+      "Slot": 10,
+      "id": "minecraft:coal"
+    },
+    {
+      "count": 64,
+      "Slot": 11,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 5,
+      "Slot": 12,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "count": 41,
+      "Slot": 13,
+      "id": "minecraft:raw_iron"
+    },
+    {
+      "count": 2,
+      "Slot": 14,
+      "id": "minecraft:cooked_porkchop"
+    },
+    {
+      "count": 1,
+      "Slot": 15,
+      "id": "minecraft:yellow_bed"
+    },
+    {
+      "count": 64,
+      "Slot": 16,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 17,
+      "id": "minecraft:iron_axe"
+    },
+    {
+      "count": 64,
+      "Slot": 18,
+      "id": "minecraft:granite"
+    },
+    {
+      "count": 64,
+      "Slot": 19,
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "count": 1,
+      "Slot": 20,
+      "id": "minecraft:golden_apple"
+    },
+    {
+      "count": 64,
+      "Slot": 21,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 58,
+      "Slot": 22,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 64,
+      "Slot": 23,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 24,
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "count": 39,
+      "Slot": 25,
+      "id": "minecraft:oak_log"
+    },
+    {
+      "count": 64,
+      "Slot": 26,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 27,
+      "components": {
+        "minecraft:damage": 76
+      },
+      "id": "minecraft:iron_axe"
+    },
+    {
+      "count": 64,
+      "Slot": 28,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 29,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 30,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 10,
+      "Slot": 31,
+      "id": "actuallyadditions:black_quartz"
+    },
+    {
+      "count": 64,
+      "Slot": 32,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 33,
+      "id": "biomeswevegone:white_mangrove_crafting_table"
+    },
+    {
+      "count": 11,
+      "Slot": 34,
+      "id": "minecraft:cooked_beef"
+    },
+    {
+      "count": 14,
+      "Slot": 35,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "Slot": 101,
+      "components": {
+        "apotheosis:rarity": "apotheosis:uncommon",
+        "apotheosis:sockets": 1,
+        "apotheosis:affix_name": {
+          "with": [
+            {
+              "translate": "affix.apotheosis:armor/attribute/blessed"
+            },
+            {
+              "": ""
+            },
+            {
+              "translate": "affix.apotheosis:armor/mob_effect/bolstering.suffix"
+            }
+          ],
+          "color": "#33FF33",
+          "strikethrough": 0,
+          "italic": 0,
+          "translate": "misc.apotheosis.affix_name.three"
+        },
+        "apotheosis:affixes": {
+          "apotheosis:armor/attribute/windswept": 0.12394219636917114,
+          "apotheosis:armor/mob_effect/bolstering": 0.49317044019699097,
+          "apotheosis:armor/attribute/blessed": 0.4890247583389282
+        }
+      },
+      "id": "minecraft:iron_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": -106,
+      "id": "minecraft:torch"
+    }
+  ],
+  "LastDeathLocation": {
+    "pos": [
+      1750,
+      -11,
+      -47
+    ],
+    "dimension": "minecraft:overworld"
+  },
+  "foodTickTimer": 0,
+  "neoforge:attachments": {
+    "ars_nouveau:mana_cap": {
+      "current": 100.0,
+      "glyph": 0,
+      "max": 100,
+      "reserved": 0.0,
+      "book_tier": 0
+    },
+    "xycraft_core:favored_color_data": -15637249,
+    "apotheosis:tier_augments_applied": 1,
+    "mi_tweaks:blueprints_learned": [],
+    "mowziesmobs:frozen_data": {
+      "frozenYaw": 0.0,
+      "frozenWalkAnimSpeed": 0.0,
+      "freezeProgress": 0.0,
+      "frozenPitch": 0.0,
+      "freezeDecayDelay": 0,
+      "prevHasAI": 1,
+      "frozenYawHead": 0.0,
+      "frozen": 0,
+      "frozenWalkAnimPosition": 0.0,
+      "prevFrozen": 0,
+      "frozenRenderYawOffset": 0.0,
+      "frozenSwingProgress": 0.0
+    },
+    "blueflame:blue_flame_handler": {
+      "isOnFire": 0
+    },
+    "curios:inventory": {
+      "Curios": [
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "calendarslot"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "an_focus"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "mana_crystal"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 0,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 0,
+              "Renders": []
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 0,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 0,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 0,
+              "ActiveStates": []
+            }
+          },
+          "Identifier": "curio"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "magnetizer"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "head"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "face"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "necklace"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "back"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": [
+                {
+                  "count": 1,
+                  "Slot": 0,
+                  "components": {
+                    "sophisticatedcore:number_of_inventory_slots": 27,
+                    "sophisticatedcore:storage_uuid": [
+                      379193400,
+                      438585759,
+                      -1489970481,
+                      783073793
+                    ],
+                    "sophisticatedcore:number_of_upgrade_slots": 1,
+                    "sophisticatedcore:render_info_tag": {
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  },
+                  "id": "sophisticatedbackpacks:backpack"
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "backpack"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "body"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 2,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "bracelet"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 2,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "hands"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 4,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 4,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                },
+                {
+                  "Render": 1,
+                  "Slot": 2
+                },
+                {
+                  "Render": 1,
+                  "Slot": 3
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 4,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 4,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 4,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 2,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 3,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "ring"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 2,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "belt"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 2,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": [
+                {
+                  "count": 1,
+                  "Slot": 0,
+                  "components": {
+                    "relics:data": {
+                      "abilities": {
+                        "abilities": {
+                          "hold": {
+                            "extender": {
+                              "ticking": 0,
+                              "cooldown": 0,
+                              "cooldownCap": 0
+                            },
+                            "stats": {
+                              "duration": {
+                                "initialValue": 3.53873
+                              }
+                            },
+                            "lock": {
+                              "breaks": 5
+                            },
+                            "research": {
+                              "researched": 0,
+                              "links": {}
+                            },
+                            "points": 0
+                          }
+                        }
+                      },
+                      "leveling": {
+                        "luck": 0,
+                        "level": 0,
+                        "experience": 0,
+                        "points": 0
+                      }
+                    }
+                  },
+                  "id": "artifacts:bunny_hoppers"
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "feet"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 3,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 3,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                },
+                {
+                  "Render": 1,
+                  "Slot": 2
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 3,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 3,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 3,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 2,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "charm"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "spellbook"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 0,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "adv_pattern_encoder"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "bundle"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 0,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "deep_learner"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "familiar_trinket"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "psd"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "qio"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 2,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                },
+                {
+                  "Render": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "HasCosmetic": 1,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                },
+                {
+                  "Slot": 1,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "shoulders"
+        },
+        {
+          "StacksHandler": {
+            "SavedBaseSize": 1,
+            "RenderToggle": 1,
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Render": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "HasCosmetic": 0,
+            "DropRule": "DEFAULT",
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "Slot": 0,
+                  "ActiveState": 1
+                }
+              ]
+            }
+          },
+          "Identifier": "teleporter"
+        }
+      ]
+    },
+    "yigd:last_ground_pos": [
+      1794.9049200251663,
+      82.0,
+      116.86275719150822
+    ],
+    "rftoolsutility:buff_properties": {
+      "allowFlying": 0,
+      "oldAllowFlying": 0,
+      "buffTimeouts": [],
+      "onElevator": 0,
+      "buffs": [],
+      "buffTimeout": 23
+    },
+    "xycraft_core:tick_data": {
+      "partial_sum": 0.0,
+      "tick": 12599,
+      "partial": 0.0
+    },
+    "the_bumblezone:player_data": {
+      "honeySlimeBred": 0,
+      "beeSaved": 0,
+      "flowersSpawned": 0,
+      "pollenPuffHits": 0,
+      "craftedBeehives": 0,
+      "gottenWelcomed": 1,
+      "beeStingersFired": 0,
+      "tradeResetPrimedTime": -1000,
+      "honeyBottleDrank": 0,
+      "mobsKilledTracker": {},
+      "beesFed": 0,
+      "isBeeEssenced": 0,
+      "beesBred": 0,
+      "receivedEssencePrize": 0,
+      "gottenWelcomedInDimension": 0,
+      "queenBeeTrade": 0
+    },
+    "apotheosis:world_tier": "haven",
+    "apotheosis:radial_mining_mode": "require_not_sneaking",
+    "mowziesmobs:living_data": {},
+    "tempad:travel_history": {
+      "1758974512185": {
+        "pos": [
+          1685.0964909075174,
+          16.0,
+          9.699999988079071
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936432243": {
+        "pos": [
+          902.3985058138109,
+          -40.0,
+          -768.2607225914919
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974930912": {
+        "pos": [
+          1711.1077511307433,
+          18.0,
+          8.97952901561192
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934792948": {
+        "pos": [
+          662.2253344122762,
+          -33.0,
+          -627.7890634156839
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758935381795": {
+        "pos": [
+          709.2739023004672,
+          -51.0,
+          -704.3271282045407
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758932694652": {
+        "pos": [
+          578.5,
+          73.0,
+          -491.5
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974433790": {
+        "pos": [
+          1672.476585721025,
+          -35.0,
+          -5.060337677822658
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758973473873": {
+        "pos": [
+          1745.3010224592924,
+          80.16610926093821,
+          111.55486304826856
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938305044": {
+        "pos": [
+          1656.1202589388374,
+          85.0,
+          11.935288693976965
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758975110902": {
+        "pos": [
+          1686.1743027319433,
+          26.0,
+          -5.670195284935477
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937572245": {
+        "pos": [
+          807.5658224419648,
+          75.24947197770308,
+          -156.69837652612958
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936192252": {
+        "pos": [
+          637.6999999880791,
+          -16.160000026226044,
+          -776.7173042263701
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936252243": {
+        "pos": [
+          863.3037313593212,
+          -40.0,
+          -737.4511460376125
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758973533864": {
+        "pos": [
+          1791.9907747499183,
+          82.0625,
+          116.41819616633657
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758975350890": {
+        "pos": [
+          1679.9033357716096,
+          8.0,
+          -15.139794483947119
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758975050904": {
+        "pos": [
+          1690.057655784847,
+          12.784029427331916,
+          65.03928232559586
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758973893836": {
+        "pos": [
+          1794.1857177464958,
+          82.0,
+          116.9093447909439
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974373794": {
+        "pos": [
+          1716.7491661317101,
+          2.0,
+          22.76816205911073
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974870913": {
+        "pos": [
+          1752.963713346658,
+          17.0,
+          22.69999998807907
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935522345": {
+        "pos": [
+          697.8476702715107,
+          -26.744780398237236,
+          -695.9190225735375
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933851506": {
+        "pos": [
+          641.5822195261343,
+          6.0625,
+          -474.89251278142746
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933551504": {
+        "pos": [
+          619.2306130631206,
+          44.0,
+          -497.42826782209653
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934550606": {
+        "pos": [
+          697.8365133698425,
+          3.0,
+          -578.866422893515
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937952644": {
+        "pos": [
+          1572.699999988079,
+          78.0,
+          -7.142432674176773
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758975290892": {
+        "pos": [
+          1689.9624241637712,
+          17.0,
+          14.161442799283849
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937772646": {
+        "pos": [
+          1230.4054254875348,
+          64.0,
+          199.20638146722789
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935261795": {
+        "pos": [
+          682.6710315432208,
+          -52.0,
+          -686.003423508299
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937634301": {
+        "pos": [
+          937.1239394228394,
+          68.33226489655115,
+          -3.1287877368232406
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935034095": {
+        "pos": [
+          668.4068908386687,
+          -46.0,
+          -646.4719668909166
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933671504": {
+        "pos": [
+          636.4581228550618,
+          8.0,
+          -526.3620328209453
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938132645": {
+        "pos": [
+          1607.0344435692214,
+          81.0,
+          -27.440024763274433
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933371502": {
+        "pos": [
+          624.73566074502,
+          65.0,
+          -506.46503597079015
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938642788": {
+        "pos": [
+          1771.4402767970664,
+          79.0,
+          113.45267200271532
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758935592243": {
+        "pos": [
+          695.3482201343409,
+          -33.0,
+          -681.830300185875
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934490602": {
+        "pos": [
+          694.1990892648435,
+          4.0,
+          -568.6999999880791
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935081838": {
+        "pos": [
+          568.5,
+          79.0,
+          -499.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758937212255": {
+        "pos": [
+          953.6803770322927,
+          -41.0,
+          -749.5998556159619
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935532264": {
+        "pos": [
+          566.5,
+          76.0,
+          -501.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758938252644": {
+        "pos": [
+          1661.4400253370702,
+          90.0,
+          9.696812940644074
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938306114": {
+        "pos": [
+          570.5,
+          73.0,
+          -490.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758937272246": {
+        "pos": [
+          794.6626741908244,
+          78.0,
+          -114.21551212832338
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938192644": {
+        "pos": [
+          1654.1654959881512,
+          78.0625,
+          7.16137887920865
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974749574": {
+        "pos": [
+          1750.5831534662411,
+          -11.0,
+          -46.36567485015419
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758938643908": {
+        "pos": [
+          1800.5,
+          82.0,
+          137.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758933611504": {
+        "pos": [
+          651.6999999880791,
+          9.0,
+          -515.3000000119209
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935652244": {
+        "pos": [
+          691.3774227003637,
+          -16.0,
+          -695.8852989734211
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935402390": {
+        "pos": [
+          576.5,
+          74.0,
+          -488.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758935531060": {
+        "pos": [
+          689.3000000119209,
+          -37.0,
+          -687.9418091409485
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758937651654": {
+        "pos": [
+          828.2915974613743,
+          65.0,
+          1.8225962011658792
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758933979208": {
+        "pos": [
+          696.9475310472502,
+          10.0,
+          -508.65862619320933
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934370617": {
+        "pos": [
+          573.5,
+          73.0,
+          -495.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758934369353": {
+        "pos": [
+          659.3000000119209,
+          -39.0,
+          -633.3000000119209
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758936852251": {
+        "pos": [
+          853.1762635067665,
+          -41.0,
+          -704.7947151940544
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933859241": {
+        "pos": [
+          570.5,
+          74.0,
+          -489.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758975230898": {
+        "pos": [
+          1673.3712627933262,
+          26.0,
+          18.69999998807907
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936312243": {
+        "pos": [
+          903.6062482364495,
+          -40.0,
+          -737.3528587690764
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937652695": {
+        "pos": [
+          583.5,
+          72.0,
+          -497.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758935401348": {
+        "pos": [
+          712.6999999880791,
+          -54.20759378524126,
+          -704.3387749942221
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758935892251": {
+        "pos": [
+          681.3510177071372,
+          -16.0,
+          -696.2398847009135
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936012248": {
+        "pos": [
+          674.3310988947483,
+          -15.0,
+          -703.1061331219976
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937832654": {
+        "pos": [
+          1419.8622030658323,
+          60.73725460844595,
+          113.63619768648084
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934974098": {
+        "pos": [
+          680.6206943732359,
+          -46.0,
+          -590.3022815980127
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937152241": {
+        "pos": [
+          950.8000468411155,
+          -41.0,
+          -789.4258330797991
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974692188": {
+        "pos": [
+          1748.8157224668869,
+          17.0,
+          -10.693163751819391
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934339209": {
+        "pos": [
+          658.3000000119209,
+          -41.160000026226044,
+          -640.6289961549463
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938486094": {
+        "pos": [
+          1791.5215158600042,
+          82.0625,
+          115.4875735170848
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974750950": {
+        "pos": [
+          1800.5,
+          82.0,
+          137.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758934794127": {
+        "pos": [
+          566.5,
+          74.0,
+          -489.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758973053925": {
+        "pos": [
+          1797.0920783023003,
+          82.0,
+          117.6364082647624
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936792250": {
+        "pos": [
+          842.080550749839,
+          -46.744780398237225,
+          -721.145867152951
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934747654": {
+        "pos": [
+          658.8420107319473,
+          -42.0,
+          -642.8200115791888
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938426100": {
+        "pos": [
+          1798.625695312947,
+          83.33226489655115,
+          76.51678371535861
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933311502": {
+        "pos": [
+          584.4727402878319,
+          73.0,
+          -485.71072879446234
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934159206": {
+        "pos": [
+          710.5016266208922,
+          10.0,
+          -555.4620358811729
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934279209": {
+        "pos": [
+          663.4143611316077,
+          4.044768043167114,
+          -588.8634132853574
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936672246": {
+        "pos": [
+          861.3000000119209,
+          -51.0,
+          -776.6999999880791
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938546091": {
+        "pos": [
+          1793.2814940264207,
+          82.0,
+          131.88958537016916
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758973413883": {
+        "pos": [
+          1742.8316965138815,
+          74.0,
+          132.81137685566935
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935141797": {
+        "pos": [
+          677.3959266651524,
+          -54.0,
+          -665.7888027128154
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758973833859": {
+        "pos": [
+          1806.6846879122852,
+          82.0,
+          88.59835162305116
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934687678": {
+        "pos": [
+          578.5,
+          72.0,
+          -503.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758933251507": {
+        "pos": [
+          555.2748865945023,
+          68.0,
+          -560.3937517986756
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934430598": {
+        "pos": [
+          698.5352079997703,
+          3.0,
+          -533.3164887131971
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936492246": {
+        "pos": [
+          903.5390032588572,
+          -40.0,
+          -794.4762005246753
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934099205": {
+        "pos": [
+          713.8042517625157,
+          9.0,
+          -523.7379314199993
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937032242": {
+        "pos": [
+          897.0254976893526,
+          -40.0,
+          -738.1730668505187
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937332246": {
+        "pos": [
+          702.8939176449699,
+          74.0,
+          -169.91283429296195
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934670606": {
+        "pos": [
+          658.3000000119209,
+          -41.0,
+          -657.6999999880791
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933858213": {
+        "pos": [
+          639.2359866900524,
+          5.0,
+          -471.3668507268739
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758936972242": {
+        "pos": [
+          863.664566920425,
+          -41.0,
+          -704.1324570727038
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974990911": {
+        "pos": [
+          1664.505173769654,
+          15.0,
+          38.17276541001647
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937512241": {
+        "pos": [
+          715.6528343525513,
+          75.0,
+          -148.80856119463547
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935462345": {
+        "pos": [
+          709.4873819965026,
+          -39.0,
+          -688.1045187519402
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758936732248": {
+        "pos": [
+          828.8538056893349,
+          -45.0,
+          -753.0776605679191
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933791501": {
+        "pos": [
+          630.56419784604,
+          7.6977323653737715,
+          -503.37891501043765
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974452253": {
+        "pos": [
+          1800.5,
+          82.0,
+          137.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758933191502": {
+        "pos": [
+          561.4029947249784,
+          70.0,
+          -534.1937573605264
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758935079999": {
+        "pos": [
+          673.6999999880791,
+          -53.2468000194788,
+          -673.6163886876277
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758936072250": {
+        "pos": [
+          658.3997790714745,
+          -12.0,
+          -714.5048169106168
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937452247": {
+        "pos": [
+          750.6999999880791,
+          80.83999997377396,
+          -318.69999998807907
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758938289493": {
+        "pos": [
+          577.5,
+          73.0,
+          -496.5
+        ],
+        "marker": "tempad:respawn",
+        "dimension": "minecraft:overworld"
+      },
+      "1758938288391": {
+        "pos": [
+          1651.5290157088746,
+          85.0,
+          11.58986552472145
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758937712641": {
+        "pos": [
+          1103.9110091473376,
+          68.59954164969676,
+          180.09240059408052
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758933919204": {
+        "pos": [
+          687.8124692631042,
+          10.0,
+          -502.72363032521105
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974313798": {
+        "pos": [
+          1753.8699277501735,
+          8.0,
+          -3.300000011920929
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937892651": {
+        "pos": [
+          1514.5075350250424,
+          65.0,
+          22.657619281037466
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974451047": {
+        "pos": [
+          1683.1737038699514,
+          -34.0,
+          -4.59934593667762
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758938366093": {
+        "pos": [
+          1641.347730479636,
+          78.0,
+          21.588634060628024
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934854098": {
+        "pos": [
+          682.2163465109041,
+          -46.0,
+          -630.3780099426907
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937392246": {
+        "pos": [
+          706.5844899258677,
+          76.0,
+          -183.89587729333698
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758937092243": {
+        "pos": [
+          938.0835996681564,
+          -41.0,
+          -789.1080725316493
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934219203": {
+        "pos": [
+          696.0865353886624,
+          3.0625,
+          -576.1207422445557
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934686203": {
+        "pos": [
+          658.5809324101849,
+          -42.0,
+          -659.6999999880791
+        ],
+        "marker": "tempad:death",
+        "dimension": "minecraft:overworld"
+      },
+      "1758934610619": {
+        "pos": [
+          658.7777534534115,
+          0.0,
+          -592.3779064836021
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758934914098": {
+        "pos": [
+          698.781636663595,
+          -46.0,
+          -633.2854384054165
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974632180": {
+        "pos": [
+          1710.2510201640746,
+          18.4375,
+          1.5942106977179833
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974810917": {
+        "pos": [
+          1707.8252636965549,
+          18.0,
+          12.971940791045881
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "1758974572190": {
+        "pos": [
+          1694.14428857576,
+          16.0,
+          12.699999988079071
+        ],
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "fluxnetworks:player_data": {
+      "super_admin": 0,
+      "wireless_network": -1,
+      "wireless_mode": 0
+    },
+    "l2core:flags": {
+      "flags": []
+    },
+    "xycraft_core:modifier_key_data": 0,
+    "cataclysm:hook_falling": 0,
+    "occultism:double_jump": 0,
+    "ars_nouveau:player_cap": {
+      "familiars": {
+        "size": 0
+      },
+      "glyphs": {
+        "size": 0
+      }
+    },
+    "l2core:conditionals": {
+      "data": {}
+    },
+    "xycraft_core:player_stages_data": {
+      "stages": []
+    },
+    "twilightforest:fortification_shields": {
+      "temporary_shields": 0,
+      "permanent_shields": 0
+    },
+    "mcjtylib:preferences_properties": {
+      "buffStyle": "botright",
+      "style": "STYLE_FLAT_GRADIENT",
+      "buffY": -20,
+      "buffX": -20
+    },
+    "tempad:color": "#ff6a00",
+    "twilightforest:feather_fan_falling": 0,
+    "mowziesmobs:player_data": {
+      "prevTime": 0,
+      "time": 0,
+      "untilSunstrike": 0,
+      "untilAxeSwing": 0
+    },
+    "irons_jewelry:jewelcrafting_data": {
+      "cooldowns": [],
+      "learned_patterns": []
+    },
+    "irons_spellbooks:magic_data": {
+      "castingSpellLevel": 0,
+      "isCasting": 0,
+      "mana": 100,
+      "effectFlags": 0,
+      "spellSelection": {
+        "lastSlot": "",
+        "index": -1,
+        "slot": "",
+        "lastIndex": -1
+      },
+      "castingEquipmentSlot": "",
+      "heartStopAccumulatedDamage": 0.0,
+      "evasionHitsRemaining": 0.0,
+      "castingSpellId": ""
+    },
+    "occultism:familiar_settings": {
+      "cthulhu_familiar": 1,
+      "goat_familiar": 1,
+      "bat_familiar": 1,
+      "guardian_familiar": 1,
+      "fairy_familiar": 1,
+      "mummy_familiar": 1,
+      "deer_familiar": 1,
+      "shub_niggurath_familiar": 1,
+      "blacksmith_familiar": 1,
+      "headless_familiar": 1,
+      "dragon_familiar": 1,
+      "beaver_familiar": 1,
+      "greedy_familiar": 1,
+      "otherworld_bird": 1,
+      "chimera_familiar": 1,
+      "beholder_familiar": 1,
+      "devil_familiar": 1
+    },
+    "mowziesmobs:ability_data": {}
+  },
+  "FallFlying": 0,
+  "PortalCooldown": 0,
+  "DeathTime": 0,
+  "XpSeed": -1037064892,
+  "playerGameType": 0,
+  "SpawnDimension": "minecraft:overworld",
+  "seenCredits": 0,
+  "Motion": [
+    0.0,
+    -0.0784000015258789,
+    0.0
+  ],
+  "Health": 23.5,
+  "foodSaturationLevel": 0.0,
+  "es_data": {
+    "in_ether": 0,
+    "in_abyssal_fire_ticks": 0
+  },
+  "OnGround": 1,
+  "Dimension": "minecraft:overworld",
+  "Rotation": [
+    -61.159095764160156,
+    15.952342987060547
+  ],
+  "XpLevel": 23,
+  "current_impulse_context_reset_grace_time": 0,
+  "Fire": -20,
+  "attributes": [
+    {
+      "id": "puffish_attributes:pickaxe_speed",
+      "base": null
+    },
+    {
+      "id": "irons_spellbooks:holy_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "puffish_attributes:toughness_shred",
+      "base": null
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.mana_regen",
+      "base": 0.0
+    },
+    {
+      "id": "irons_spellbooks:eldritch_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "xycraft_machines:hover_flight",
+      "base": 0.0
+    },
+    {
+      "id": "minecraft:generic.max_absorption",
+      "base": 0.0
+    },
+    {
+      "id": "neoforge:swim_speed",
+      "base": 1.0
+    },
+    {
+      "id": "apothic_attributes:experience_gained",
+      "base": 1.0
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.drygmy",
+      "base": 0.0
+    },
+    {
+      "id": "puffish_attributes:life_steal",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:stealth",
+      "base": null
+    },
+    {
+      "id": "eternal_starlight:generic.fire_resistance",
+      "base": 0.0
+    },
+    {
+      "id": "puffish_attributes:armor_shred",
+      "base": null
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.saturation",
+      "base": 1.0
+    },
+    {
+      "id": "minecraft:generic.gravity",
+      "base": 0.08
+    },
+    {
+      "id": "puffish_attributes:melee_resistance_shred",
+      "base": null
+    },
+    {
+      "id": "apothic_attributes:draw_speed",
+      "base": 1.0
+    },
+    {
+      "id": "minecraft:generic.luck",
+      "base": 0.0
+    },
+    {
+      "id": "puffish_attributes:protection_shred",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:ranged_resistance",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:resistance_shred",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:healing",
+      "base": null
+    },
+    {
+      "id": "minecraft:generic.movement_speed",
+      "base": 0.10000000149011612
+    },
+    {
+      "id": "puffish_attributes:jump",
+      "base": null
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.weight",
+      "base": 1.0
+    },
+    {
+      "id": "irons_spellbooks:spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "puffish_attributes:ranged_damage",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:melee_damage",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:mining_speed",
+      "base": null
+    },
+    {
+      "id": "irons_spellbooks:lightning_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "minecraft:generic.attack_damage",
+      "base": 1.0
+    },
+    {
+      "id": "puffish_attributes:sprinting_speed",
+      "base": null
+    },
+    {
+      "id": "minecraft:player.submerged_mining_speed",
+      "base": 0.2
+    },
+    {
+      "id": "irons_spellbooks:ender_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.warding",
+      "base": 0.0
+    },
+    {
+      "id": "minecraft:generic.step_height",
+      "base": 0.6
+    },
+    {
+      "id": "neoforge:creative_flight",
+      "base": 0.0
+    },
+    {
+      "id": "puffish_attributes:melee_resistance",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:resistance",
+      "base": null
+    },
+    {
+      "id": "irons_spellbooks:max_mana",
+      "base": 100.0
+    },
+    {
+      "id": "irons_spellbooks:fire_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "irons_spellbooks:ice_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "irons_spellbooks:mana_regen",
+      "base": 1.0
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.max_mana",
+      "base": 0.0
+    },
+    {
+      "id": "minecraft:generic.knockback_resistance",
+      "base": 0.0
+    },
+    {
+      "id": "minecraft:generic.armor_toughness",
+      "base": 0.0
+    },
+    {
+      "id": "irons_spellbooks:blood_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "minecraft:generic.max_health",
+      "base": 20.0
+    },
+    {
+      "id": "puffish_attributes:fall_reduction",
+      "base": null
+    },
+    {
+      "id": "minecraft:player.block_interaction_range",
+      "base": 4.5
+    },
+    {
+      "id": "caelus:fall_flying",
+      "base": 0.1
+    },
+    {
+      "id": "minecraft:generic.oxygen_bonus",
+      "base": 0.0
+    },
+    {
+      "id": "puffish_attributes:fortune",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:natural_regeneration",
+      "base": null
+    },
+    {
+      "id": "puffish_attributes:stamina",
+      "base": 4.0
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.feather",
+      "base": 0.0
+    },
+    {
+      "id": "minecraft:generic.attack_speed",
+      "base": 4.0
+    },
+    {
+      "id": "minecraft:player.entity_interaction_range",
+      "base": 3.0
+    },
+    {
+      "id": "irons_spellbooks:cooldown_reduction",
+      "base": 1.0
+    },
+    {
+      "id": "ars_nouveau:ars_nouveau.perk.wixie",
+      "base": 1.0
+    },
+    {
+      "id": "irons_spellbooks:spell_resist",
+      "base": 1.0
+    },
+    {
+      "id": "puffish_attributes:axe_speed",
+      "base": null
+    },
+    {
+      "id": "irons_spellbooks:evocation_spell_power",
+      "base": 1.0
+    },
+    {
+      "id": "puffish_attributes:knockback",
+      "base": null
+    },
+    {
+      "id": "minecraft:generic.armor",
+      "base": 0.0
+    },
+    {
+      "id": "irons_spellbooks:nature_spell_power",
+      "base": 1.0
+    }
+  ],
+  "foodLevel": 7,
+  "foodExhaustionLevel": 0.06235339492559433
+}

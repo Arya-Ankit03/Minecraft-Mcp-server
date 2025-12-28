@@ -1,0 +1,14 @@
+{
+  "health": 23.5,
+  "air": 300,
+  "food": {
+    "level": 7,
+    "saturation": 0.0,
+    "exhaustion": 0.0624
+  },
+  "xp": {
+    "level": 23,
+    "total": 821,
+    "progress": 0.9091
+  }
+}
